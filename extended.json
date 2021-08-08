@@ -1,0 +1,37 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://github.com/OccamFi/cardano-pool-info/blob/main/logo/occamfi_64x64.png?raw=true",
+    "url_png_logo": "https://github.com/OccamFi/cardano-pool-info/blob/main/logo/occamfi_512x512.png?raw=true",
+    "location": "Zug, Switzerland",
+    "social": {
+      "twitter_handle": "OccamFi",
+      "telegram_handle": "occamfi",
+      "facebook_handle": "",
+      "youtube_handle": "UC0HIIKjEzhwiLnvo8GqrWpw",
+      "twitch_handle": "",
+      "discord_handle": "7K7r2bGGJW",
+      "github_handle": "OccamFi"
+    },
+    "company": {
+      "name": "OccamFi",
+      "addr": "Zug, Switzerland",
+      "city": "Zug",
+      "country": "SWZ",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "OccamFi's first ADA Staking pool.",
+      "server": "",
+      "company": ""
+    },
+    "my-pool-ids": {
+      "0": "",
+      "1": ""
+    },
+    "telegram-admin-handle": {
+      "0": "danielbose"
+    }
+  }
+}
+
