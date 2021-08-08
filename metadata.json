@@ -1,0 +1,7 @@
+{
+  "name": "OccamFi",
+  "description": "OccamFi Pool",
+  "ticker": "pOCC",
+  "homepage": "https://occam.fi",
+  "extended": "https://raw.githubusercontent.com/OccamFi/cardano-pool-info/main/extended.json?token=AAGCQRSUYHOGEICWN7GKG5LBDET2O"
+}
